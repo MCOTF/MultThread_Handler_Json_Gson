@@ -1,3 +1,3 @@
 # MultThread_Handler_Json_Gson
-多线程&amp;Handler线程通信&amp;Json解析&amp;Gson的天气预报小程序
+主要为了展示网络请求，更改城市多加几个按钮或输入框就行
 （说实话okhttp还不太会用，已经在努力学了）
